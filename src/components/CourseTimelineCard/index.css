@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.first {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.second {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 6vw;
+  padding: 10px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
